@@ -28,7 +28,7 @@ web-server-docker
 To build the Docker image for the web server, run the following command in the project root directory:
 
 ```
-docker build -t web-server-docker .
+- docker build -t web-server-docker .
 ```
 
 ## Running the Application
